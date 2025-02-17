@@ -17,11 +17,14 @@ This project presents a real-time Electrodermal Activity (EDA) signal processing
 - **Operational Amplifier (LM358)** – Amplifies weak EDA signals.  
 - **Resistors & Capacitors** – For signal conditioning and stability.  
 - **Skin Electrodes** – To capture skin conductance levels.  
+![prototype](https://github.com/user-attachments/assets/6b727e87-1623-4a6b-8041-40c8afbc63f5)
 
 ### Software Implementation  
 - **Arduino IDE** – Used for coding and signal processing.  
 - **Serial Plotter** – Visualizes the real-time EDA signal graph.  
-- **Conductance Thresholding** – Values below **75 µS** indicate normal autonomic function.  
+- **Conductance Thresholding** – Values below **75 µS** indicate normal autonomic function.
+- ![graph copy](https://github.com/user-attachments/assets/7fb55678-765c-461a-a85a-9c577eb2a4ef)
+
 
 ## Working Principle  
 1. Electrodes measure **skin conductance** variations due to autonomic nervous system activity.  
@@ -32,8 +35,9 @@ This project presents a real-time Electrodermal Activity (EDA) signal processing
 
 ## Performance Evaluation  
 - The system effectively detects **autonomic nervous system activity**.  
-- Normal skin conductance levels are below **75 µS**.  
-- Sudden spikes or drops in conductance may indicate **early signs of CAN or other cardiovascular issues**.  
+- Normal skin conductance levels are below **75 µS**.
+- ![image](https://github.com/user-attachments/assets/1ee0fc60-5ab7-4f6e-8c1d-5d29b69abd65)
+ - Sudden spikes or drops in conductance may indicate **early signs of CAN or other cardiovascular issues**.  
 
 ## Future Enhancements  
 - **Integration with wireless data transmission** for remote health monitoring.  
