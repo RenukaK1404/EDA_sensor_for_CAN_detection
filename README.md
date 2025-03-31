@@ -1,5 +1,6 @@
 # EDA_sensor_for_CAN_detection
 # Real-Time EDA Signal Processing System for Early Detection of Cardiovascular Autonomic Neuropathy
+Measures and monitors the skin conductance of a person and plots an EDA signal graph, which can be interpreted for early detection of CAN in at-risk population
 
 ## Overview  
 This project presents a real-time Electrodermal Activity (EDA) signal processing system for early detection of **Cardiovascular Autonomic Neuropathy (CAN)**. By measuring **skin conductance levels (SCL)**, the system assesses **autonomic nervous system (ANS) activity**, which is closely linked to cardiovascular health. The system is built using an **Arduino microcontroller**, an **operational amplifier (Op-Amp)**, and other basic electronic components, making it a **cost-effective** and **non-invasive** diagnostic tool.
