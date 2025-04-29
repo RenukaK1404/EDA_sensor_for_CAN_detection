@@ -20,7 +20,7 @@ This project presents a real-time Electrodermal Activity (EDA) signal processing
 - **Skin Electrodes** – To capture skin conductance levels.
 
 ![image](https://github.com/user-attachments/assets/56f03eaa-405b-4bbe-a32d-703bf7c44c0b)
-Circuit schematics from https://github.com/Introspectibles/tobe-misc.git
+  Circuit schematics from https://github.com/Introspectibles/tobe-misc.git
 
 ![prototype](https://github.com/user-attachments/assets/6b727e87-1623-4a6b-8041-40c8afbc63f5)
 
